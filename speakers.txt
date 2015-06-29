@@ -1,0 +1,399 @@
+# This data pulled from linkedin.com and was prepared on 5/30/2015 by my assistant with some corrections and additions made by me
+
+ABHI NEMANI
+		Public Speaking	49
+		Nonprofits	36
+		Research	28
+		Non-profits	26
+		Fundraising	23
+		Strategy	23
+		Social Media	22
+		Politics	21
+		Strategic Communications	16
+		Social Networking	16
+ALAN GATES	
+		Hadoop	56
+		Distributed Systems	32
+		MapReduce	25
+		Big Data	21
+		Scalability	20
+		Hive	14
+		Java	11
+		Apache Pig	10
+		NoSQL	6
+		Ant	4
+KAREN LOPEZ	
+		Enterprise Architecture	99
+		Data Modeling	99
+		Databases	99
+		Business Analysis	99
+		Database Design	99
+		Data Warehousing	99
+		Business Intelligence	97
+		Solution Architecture	79
+		Systems Analysis	67
+		Data Management	58
+MICHAEL STACK	
+		Hadoop	99
+		HBase	99
+		Distributed Systems	72
+		MapReduce	64
+		Scalability	53
+		Big Data	40
+		Open Source	37
+		Java	35
+		NoSQL	22
+		Apache Pig	18
+RICK SCHOENBERG
+AARON WEPLER	
+		Business Intelligence	11
+		Databases	7
+		Financial Reporting	5
+		Business Objects	5
+		Essbase	4
+		OBIEE	4
+		Budgets	4
+		Big Data	4
+		Microsoft SQL Server	3
+		SSIS	2
+ABRAHAM ELMAHREK
+ADAM MOLLENKOPF	h
+		Enterprise Software	33
+		Agile Methodologies	26
+		Strategy	15
+		Software Development	14
+		Software Project...	13
+		SOA	9
+		Java	8
+		Enterprise Architecture	8
+		Scrum	8
+		Project Management	7
+ADAM TOURKOW
+AMELIA MCNAMARA
+		R	16
+		Statistics	15
+		LaTeX	8
+		Research	8
+		Mathematica	7
+		Data Analysis	7
+		Teaching	6
+		Data Visualization	4
+		Graphic Design	3
+		Data Curation	3
+ARVIND PRABHAKAR
+		Hadoop	59
+		Big Data	32
+		Distributed Systems	40
+		Hbase	23
+		Hive	15
+		Apache	26
+		Java Enterprise Edition	45
+ASHISH SINGH
+		Big Data	3
+		Hadoop	4
+		Hive	2
+		Java	8
+		C++	8
+		Object Oriented Design	1
+		Algorithms	6
+		High Performance..	9
+		Distributed Systems	11
+		MPI	7
+BENJAMIN UMINSKY
+		R	*
+		Predictive Modeling	*
+		Data Mining	*
+		Data Science	*
+		Machine Learning	*
+		Business Analytics	*
+		Business Intelligence	*
+		Lean Six Sigma	*
+		Labor Relations	7
+		Policy	6
+BIKAS SAHA
+		Hadoop	25
+		Distributed Systems	24
+		MapReduce	14
+		Scalability	14
+		Software Development	13
+		Algorithms	11
+		Software Engineering	11
+		C++	8
+		Big Data	8
+		Data Structures	6
+BRAXTON WOODHAM
+BRIAN KURSAR
+		Business Intelligence	59
+		Data Science	1
+		Big Data	34
+		Oracle	27
+		Machine Learning	3
+		Quality Assurance	19
+		.NET	10
+		Performance Tuning	11
+		SQL	18
+BRYAN REINERO
+CHRIS FREGLY	
+		Scalability	66
+		Java	52
+		REST	37
+		Distributed Systems	37
+		Amazon Web Services...	30
+		Hadoop	33
+		Web Services	24
+		Cloud Computing	28
+		Apache Spark	6
+		EMR	1
+FELIX CHERN	
+		Hadoop	7
+		java	2
+		Objective-C	12
+		C	5
+		Perl	10
+		Ruby	3
+		Matlab	4
+		Programming	5
+		Common Lisp	2
+		Numerical Analysis	1
+GIAN GONZANGA	h
+		Data Analysis	36
+		Research Design	27
+		User Experience	20
+		Machine Learning	19
+		Quantitative Research	16
+		E-commerce	11
+		Algorithms	9
+		SPSS	8
+		R	4
+		Quasi Experimental...	1
+HYUNSIK CHOI
+		Hadoop	26
+		Distributed Systems	21
+		MapReduce	19
+		Open Source	19
+		Java	13
+		Data Processing	11
+		Algorithms	8
+		Tajo	8
+		Linux	7
+		Large Scale Systems	6
+JEFF MORRIS	
+		Agile Methodologies	29
+		REST	28
+		AJAX	22
+		jQuery	19
+		Web Development	19
+		Enterprise Software	19
+		HTML 5	10
+		JSON	10
+		XML	10
+		Software Development	10
+JIM MCGUIRE
+		R	*
+		Machine Learning	*
+		Statistical Modeling	*
+		Predictive Analytics	*
+		Predictive Modeling	*
+		Credit Risk	*
+		Databases	*
+		SQL	*
+		Data Analysis	*
+		Data Mining	*
+		Web Analytics	*
+		Online Marketing	*
+		Omniture	*
+		Microsoft Excel	*
+		Google Analytics	*
+		Google Adwords	*
+JOHN DE GOES
+		Java	42
+		Software Development	28
+		Software Engineering	23
+		Ruby	20
+		Algorithms	17
+		Agile Methodologies	17
+		Distributed Systems	15
+		Git	13
+		Product Management	12
+		REST	10
+JONATHAN GRAY
+		Distributed Systems	52
+		Hadoop	50
+		Linux	35
+		HBase	26
+		Software Engineering	14
+		Java	14
+		Open Source	14
+		Big Data	12
+		Software Development	11
+		Cloud Computing	11
+JOSH WILLS
+JOSIAH CARLSON
+		Python	53
+		MySQL	22
+		PostgreSQL	18
+		Redis	16
+		CSS	14
+		Software Engineering	13
+		JavaScript	11
+		Linux	8
+		Django	6
+		Amazon Web Services...	5
+KHANDERAO KAND
+		SOA	99+
+		Big Data	62
+		Enterprise Software	70
+		Cloud Computing	61
+		Product Management	43
+		Mobile Applications	33
+		Software Development	47
+		Technical Leadership	22
+		Apache Spark	1
+		Hadoop	24
+KYLE POLICH	
+		Python	27
+		R	8
+		Java	22
+		Statistical Data...	1
+		Machine Learning	20
+		Data Mining	10
+		MySQL	23
+		Algorithms	23
+		Microsoft SQL Server	10
+		Agile Methodologies	11
+MAXIM LUKIYANOV
+MICHAEL LIMCACO
+		Systems Engineering	35
+		System Architecture	31
+		Integration	23
+		Management	15
+		DoD	15
+		Software Engineering	15
+		Program Management	11
+		Enterprise Architecture	11
+		Software Development	11
+		Requirements Analysis	10
+MOLLY O’ CONNOR
+PEYMAN MOHAJERIAN
+RACHEL PEDRESCHI
+		Enterprise Software	33
+		Business Intelligence	29
+		Big Data	29
+		Cloud Computing	22
+		SaaS	18
+		Databases	15
+		Data Warehousing	13
+		Analytics	11
+		Enterprise Architecture	11
+		Pre-sales	10
+RAJ BABU
+		Business Intelligence	72
+		Data Warehousing	49
+		Big Data	32
+		Master Data Management	24
+		Data Integration	22
+		Cloud Computing	22
+		Analytics	22
+		Enterprise Software	15
+		Microsoft SQL Server	13
+		SharePoint	11
+ROMAIN RIGAUX
+		Hue	2
+		Hadoop	31
+		Python	9
+		Web Applications	6
+		Web Development	7
+		Django	2
+		MapReduce	14
+		Java	17
+		Apache Pig	8
+		Pig	5
+SABRI SANSOY
+		JavaScript	56
+		Mobile Devices	54
+		CSS	46
+		PHP	35
+		HTML 5	34
+		Objective-C	23
+		jQuery	22
+		MySQL	21
+		Digital Media	21
+		iOS	13
+SESHADRI MAHALINGAM	
+SZILARD PAFKA
+		Statistical Modeling	29
+		Data Mining	27
+		Machine Learning	24
+		R	23
+		Predictive Analytics	19
+		Data Science	15
+		Statistics	8
+		Predictive Modeling	7
+		Big Data	7
+		Financial Risk	6
+TIM ELLIS
+		Hadoop	32
+		Scalability	32
+		MySQL	29
+		Perl	27
+		Linux	20
+		Python	20
+		Distributed Systems	14
+		HBase	10
+		Databases	9
+		PostgreSQL	9
+TIM FULMER
+		Java	18
+		Software Engineering	16
+		Integration	11
+		Maven	9
+		Spring	8
+		Management	8
+		Start-ups	5
+		Agile Methodologies	5
+		JavaScript	5
+		Spring Framework	5
+ULAS BARDAK
+		Machine Learning	50
+		1Algorithms	31
+		Data Science	1
+		Team Leadership	1
+		Natural Language...	14
+		Hadoop	13
+		Data Mining	13
+		A/B testing	1
+		Analysis	1
+		Recommendation Systems	1
+VINAYAK BORKAR
+		Distributed Systems	28
+		Hadoop	22
+		Java	18
+		Big Data	14
+		SOA	13
+		Scalability	10
+		Software Development	8
+		Java Enterprise Edition	7
+		MapReduce	6
+		XML	6
+WILL OCHANDARENA
+		Cisco Technologies	35
+		Data Center	31
+		Cisco Nexus	29
+		QoS	14
+		Product Management	14
+		Routing	13
+		Switches	9
+		LAN Switching	5
+		Cross-functional Team...	4
+		Routing Protocols	3
+ZAIN ASGAR
+		Debugging	14
+		Python	12
+		C++	10
+		Simulations	10
+		Computer Architecture	8
+		Algorithms	6
+		Software Development	4
+		Software Engineering	3
+		Software Design	3
+		C	3
